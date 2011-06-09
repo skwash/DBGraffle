@@ -1,5 +1,8 @@
 #! /usr/bin/pythonw
 #
+# This file is part of DBGraffle released under the MIT license. 
+# See the LICENSE for more information.
+#
 #	Written by Paul Davis
 #	Today is August 11, 2005
 #	DBGraffle for OmniGraffle 4

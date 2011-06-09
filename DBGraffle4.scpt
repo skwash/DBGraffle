@@ -1,4 +1,7 @@
 (*
+	This file is part of DBGraffle released under the MIT license. 
+	See the LICENSE for more information.
+
 	Simple connector script for DBGraffle.py
 *)
 property pyscript : missing value
